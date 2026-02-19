@@ -21,6 +21,7 @@ Hastaların işlem öncesi hazırlık sürecini kolay ve anlaşılır şekilde t
 ```bash
 npm install
 npx expo start
+```
 
 
 ## 📸 Uygulama Görselleri
