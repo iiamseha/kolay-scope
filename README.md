@@ -26,10 +26,10 @@ npx expo start
 ## 📸 Uygulama Görselleri
 
 ### Ana Ekran
-![Ana Ekran](assets/screenshots/home.png)
+![Ana Ekran](./assets/screenshots/home.png)
 
 ### Detay Ekranı
-![Detay](assets/screenshots/detail.png)
+![Detay](./assets/screenshots/detail.png)
 
 ### Danışma Ekranı
-![Danışma](assets/screenshots/contact.png)
+![Danışma](./assets/screenshots/contact.png)
