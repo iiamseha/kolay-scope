@@ -26,7 +26,7 @@ npx expo start
 ## 📸 Uygulama Görselleri
 
 ### Ana Ekran
-![Ana Ekran](./assets/screenshots/home.png)
+![Ana Ekran](https://raw.githubusercontent.com/iiamseha/kolay-scope/refs/heads/main/assets/screenshots/home.png)
 
 ### Detay Ekranı
 ![Detay](./assets/screenshots/detail.png)
