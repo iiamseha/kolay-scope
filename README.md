@@ -21,3 +21,15 @@ Hastaların işlem öncesi hazırlık sürecini kolay ve anlaşılır şekilde t
 ```bash
 npm install
 npx expo start
+
+
+## 📸 Uygulama Görselleri
+
+### Ana Ekran
+![Ana Ekran](assets/screenshots/home.png)
+
+### Detay Ekranı
+![Detay](assets/screenshots/detail.png)
+
+### Danışma Ekranı
+![Danışma](assets/screenshots/contact.png)
